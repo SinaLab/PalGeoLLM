@@ -26,9 +26,9 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 ## 📊 Dataset Summary
 
-- 👥 **Manual QA Pairs**: 4,613
-- 🤖 **LLM-extracted Pairs**: 13,261 (semi-synthetic)
-- 📚 **Structured Data Extraction**: 2,690 (from [Palestinian village encyclopedias](https://www.palquest.org/))
+- **Manual QA Pairs**: 4,613
+- **LLM-extracted Pairs**: 13,261 (semi-synthetic)
+- **Structured Data Extraction**: 2,690 (from [Palestinian village encyclopedias](https://www.palquest.org/))
 
 ---
 
@@ -103,4 +103,5 @@ If you use or refer to this work, please cite:
 - [**Ahmad Budairi** ](https://github.com/ahmadbudz)
 - [**Mitri Khoury** ](https://github.com/mitrikhoury)
 - [**Belal Hamdeh** ](https://github.com/Hamdeh-Belal)
+
    
